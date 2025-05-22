@@ -1,0 +1,63 @@
+2025-05-22 01:01:29.705 [main] INFO  com.trello.TrelloApiClient - Board created with ID: 682e4d382454c443e814999e
+2025-05-22 01:01:30.557 [main] INFO  com.trello.TrelloApiClient - Card created with ID: 682e4d3a1b8ba9b30071b586
+2025-05-22 01:01:31.014 [main] INFO  com.trello.TrelloApiClient - Card created with ID: 682e4d3a8cc75d12872bb7f5
+2025-05-22 01:01:31.390 [main] INFO  com.trello.TrelloApiClient - Card updated with ID: 682e4d3a8cc75d12872bb7f5
+2025-05-22 01:01:32.256 [main] INFO  com.trello.TrelloApiClient - Card deleted with ID: 682e4d3a1b8ba9b30071b586
+2025-05-22 01:01:33.390 [main] INFO  com.trello.TrelloApiClient - Card deleted with ID: 682e4d3a8cc75d12872bb7f5
+2025-05-22 01:01:34.916 [main] INFO  com.trello.TrelloApiClient - Board deleted with ID: 682e4d382454c443e814999e
+2025-05-22 01:24:00.050 [main] INFO  com.beymen.utils.FileUtils - File deleted successfully: product_details.txt
+2025-05-22 01:24:07.697 [main] INFO  com.beymen.tests.BeymenFlowTest - Browser launched and Beymen.com opened.
+2025-05-22 01:24:07.871 [main] INFO  com.beymen.pages.HomePage - Cookies rejected.
+2025-05-22 01:24:08.302 [main] INFO  com.beymen.pages.HomePage - Gender modal closed.
+2025-05-22 01:24:08.330 [main] INFO  com.beymen.pages.HomePage - Home page opened successfully.
+2025-05-22 01:24:08.331 [main] INFO  com.beymen.tests.BeymenFlowTest - Home page verified.
+2025-05-22 01:24:08.416 [main] INFO  com.beymen.tests.BeymenFlowTest - Entered 'şort' from Excel.
+2025-05-22 01:24:08.690 [main] INFO  com.beymen.pages.HomePage - Search box cleared.
+2025-05-22 01:24:08.690 [main] INFO  com.beymen.tests.BeymenFlowTest - Search box cleared.
+2025-05-22 01:24:08.735 [main] INFO  com.beymen.tests.BeymenFlowTest - Entered 'gömlek' from Excel.
+2025-05-22 01:24:09.944 [main] INFO  com.beymen.pages.HomePage - Pressed ENTER key.
+2025-05-22 01:24:09.995 [main] INFO  com.beymen.pages.ResultsPage - Results page loaded successfully with 48 products.
+2025-05-22 01:24:10.762 [main] INFO  com.beymen.utils.Utils - Random product selected.
+2025-05-22 01:24:10.838 [main] INFO  com.beymen.utils.FileUtils - Content written to file: product_details.txt
+2025-05-22 01:24:10.839 [main] INFO  com.beymen.tests.BeymenFlowTest - Product details written to product_details.txt.
+2025-05-22 01:24:10.903 [main] INFO  com.beymen.pages.ProductDetailPage - Random size selected: L
+2025-05-22 01:24:10.995 [main] INFO  com.beymen.pages.ProductDetailPage - Added product to cart.
+2025-05-22 01:24:10.995 [main] INFO  com.beymen.tests.BeymenFlowTest - Product added to cart.
+2025-05-22 01:24:11.423 [main] INFO  com.beymen.pages.ProductDetailPage - Clicked on the Cart button.
+2025-05-22 01:24:13.049 [main] INFO  com.beymen.pages.CartPage - Cart page loaded successfully.
+2025-05-22 01:24:13.135 [main] INFO  com.beymen.pages.CartPage - Product price verified as 3.299 TL
+2025-05-22 01:24:13.215 [main] INFO  com.beymen.pages.CartPage - Product quantity increased to 2
+2025-05-22 01:24:13.215 [main] INFO  com.beymen.utils.FlowHelper - Quantity successfully increased on attempt #1
+2025-05-22 01:24:13.261 [main] INFO  com.beymen.tests.BeymenFlowTest - Product quantity verified as 2.
+2025-05-22 01:24:13.321 [main] INFO  com.beymen.pages.CartPage - Product removed from cart.
+2025-05-22 01:24:13.846 [main] INFO  com.beymen.pages.CartPage - Toast message verified after removing product: Ürün Silindi
+2025-05-22 01:24:13.871 [main] INFO  com.beymen.tests.BeymenFlowTest - Product removed from cart and cart is empty.
+2025-05-22 01:24:14.018 [main] INFO  com.beymen.tests.BeymenFlowTest - Browser closed.
+2025-05-22 01:24:14.019 [main] INFO  com.beymen.tests.BeymenFlowTest - Excel reader closed.
+2025-05-22 01:25:36.258 [main] INFO  com.beymen.utils.FileUtils - File deleted successfully: product_details.txt
+2025-05-22 01:25:41.197 [main] INFO  com.beymen.tests.BeymenFlowTest - Browser launched and Beymen.com opened.
+2025-05-22 01:25:41.402 [main] INFO  com.beymen.pages.HomePage - Cookies rejected.
+2025-05-22 01:25:41.816 [main] INFO  com.beymen.pages.HomePage - Gender modal closed.
+2025-05-22 01:25:41.846 [main] INFO  com.beymen.pages.HomePage - Home page opened successfully.
+2025-05-22 01:25:41.846 [main] INFO  com.beymen.tests.BeymenFlowTest - Home page verified.
+2025-05-22 01:25:41.928 [main] INFO  com.beymen.tests.BeymenFlowTest - Entered 'şort' from Excel.
+2025-05-22 01:25:42.196 [main] INFO  com.beymen.pages.HomePage - Search box cleared.
+2025-05-22 01:25:42.196 [main] INFO  com.beymen.tests.BeymenFlowTest - Search box cleared.
+2025-05-22 01:25:42.236 [main] INFO  com.beymen.tests.BeymenFlowTest - Entered 'gömlek' from Excel.
+2025-05-22 01:25:43.370 [main] INFO  com.beymen.pages.HomePage - Pressed ENTER key.
+2025-05-22 01:25:43.416 [main] INFO  com.beymen.pages.ResultsPage - Results page loaded successfully with 48 products.
+2025-05-22 01:25:44.399 [main] INFO  com.beymen.utils.Utils - Random product selected.
+2025-05-22 01:25:44.490 [main] INFO  com.beymen.tests.BeymenFlowTest - Product details written to product_details.txt.
+2025-05-22 01:25:44.562 [main] INFO  com.beymen.pages.ProductDetailPage - Random size selected: XXXL
+2025-05-22 01:25:44.666 [main] INFO  com.beymen.tests.BeymenFlowTest - Product added to cart.
+2025-05-22 01:25:45.152 [main] INFO  com.beymen.pages.ProductDetailPage - Clicked on the Cart button.
+2025-05-22 01:25:46.717 [main] INFO  com.beymen.pages.CartPage - Cart page loaded successfully.
+2025-05-22 01:25:46.798 [main] INFO  com.beymen.pages.CartPage - Product price verified as 5.250 TL
+2025-05-22 01:25:46.880 [main] INFO  com.beymen.pages.CartPage - Product quantity increased to 2
+2025-05-22 01:25:46.880 [main] INFO  com.beymen.utils.FlowHelper - Quantity successfully increased on attempt #1
+2025-05-22 01:25:46.926 [main] INFO  com.beymen.tests.BeymenFlowTest - Product quantity verified as 2.
+2025-05-22 01:25:46.986 [main] INFO  com.beymen.pages.CartPage - Product removed from cart.
+2025-05-22 01:25:47.571 [main] INFO  com.beymen.pages.CartPage - Toast message verified after removing product: Ürün Silindi
+2025-05-22 01:25:47.587 [main] INFO  com.beymen.tests.BeymenFlowTest - Product removed from cart and cart is empty.
+2025-05-22 01:25:47.743 [main] INFO  com.beymen.tests.BeymenFlowTest - Browser closed.
+2025-05-22 01:25:47.743 [main] INFO  com.beymen.tests.BeymenFlowTest - Excel reader closed.
